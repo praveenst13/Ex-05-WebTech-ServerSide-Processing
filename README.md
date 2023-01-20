@@ -143,7 +143,7 @@ urlpatterns = [
 
 
 # OUTPUT:
-![eig](ss.png)
+![eig](Screenshot_20230120_093923.png)
 # RESULT:
 
 The program is executed succesfully
