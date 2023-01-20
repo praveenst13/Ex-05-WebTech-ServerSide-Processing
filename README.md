@@ -128,7 +128,7 @@ def home(request):
 
     return render(request, "cal/home.html", context)
     ```
-   URLS.PY:
+ URLS.PY:
    ```from django.contrib import admin
 from django.urls import path
 from cal import views
